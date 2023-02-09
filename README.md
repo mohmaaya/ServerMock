@@ -14,7 +14,6 @@ Some Notes:
 		1. I was facing errors in the second user story so I implemented only the line Plot. But that also 
 		is not working. Looks to me of d3.line issue. I didnt have enough time or else I would have 
 		debugged it.
-
 		2. In the first user story, for the hovering part, I tried to add tooltip to show the id of 
 			the hovered point. But it didnt work. Looks to me the event issue of fetching the
 			mouse coordinates. So simply shown the id without any toolTip, due to time contstraints.
