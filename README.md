@@ -6,7 +6,7 @@ Run the Server to enable mocking HTTP Req
 
 Run the Frontend
 	1. Open the folder FraunhoferTask in Visual Studio preferably and in the terminal give the commands
-		npm install //to install the dependencies
+		npm install //to install the dependencies and then
 		npm start.
 	2. It will to run on the port 3001 ( URL: http://localhost:3001)
 	
