@@ -1,11 +1,12 @@
 Steps to run:
 
 Run the Server to enable mocking HTTP Req
-	1. In the folder MockService, open it in any editor preferably VSC and give the command npm start
+	1. In the folder MockServer, open it in any editor preferably VSC and give the command npx json-server --watch src/db.json
 	2. This will start the mock server  (URL: http://localhost:3000)
 
 Run the Frontend
-	1. Open the folder FraunhoferTask in Visual Studio preferably and in the terminal give the command 
+	1. Open the folder FraunhoferTask in Visual Studio preferably and in the terminal give the commands
+		npm install //to install the dependencies
 		npm start.
 	2. It will to run on the port 3001 ( URL: http://localhost:3001)
 	
